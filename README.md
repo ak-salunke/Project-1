@@ -1,4 +1,4 @@
-# Data and Visualization
+# Airbnb listings Analysis
 
 This project focuses on analyzing Airbnb listings in Amsterdam, filtering by price and visualizing their locations on a map using Streamlit and Plotly.
 
