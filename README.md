@@ -4,7 +4,7 @@ This project focuses on analyzing Airbnb listings in Amsterdam, filtering by pri
 
 ## Description
 
-This Streamlit application reads Airbnb listing data from a CSV file (`WK1_Airbnb_Amsterdam_listings_proj_solution.csv`). It filters listings based on a maximum price criterion (GBP £100 per night in this case), formats the data, and visualizes it using Plotly Express to display locations on a map.
+This Streamlit application reads Airbnb listing data from a CSV file (`Airbnb_Amsterdam_listings.csv`). It filters listings based on a maximum price criterion (GBP £100 per night in this case), formats the data, and visualizes it using Plotly Express to display locations on a map.
 
 ## Installation
 
@@ -27,7 +27,7 @@ pip install pandas plotly streamlit
 ## File Descriptions
 
 - **app.py**: Main Streamlit application script.
-- **WK1_Airbnb_Amsterdam_listings_proj_solution.csv**: CSV file containing Airbnb listing data.
+- **Airbnb_Amsterdam_listings.csv**: CSV file containing Airbnb listing data.
 
 ## Data Processing
 

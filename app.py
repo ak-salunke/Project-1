@@ -3,12 +3,12 @@ import plotly.express as px
 import streamlit as st
 
 # Display title and text
-st.title("Week 1 - Data and visualization")
-st.markdown("Here we can see the dataframe created during this weeks project.")
+st.title("Data and visualization")
+st.markdown("Here we can see the dataframe created")
 
 # Read dataframe
 dataframe = pd.read_csv(
-    "WK1_Airbnb_Amsterdam_listings_proj_solution.csv",
+    "Airbnb_Amsterdam_listings.csv",
     names=[
         "Airbnb Listing ID",
         "Price",
